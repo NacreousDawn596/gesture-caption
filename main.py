@@ -6,7 +6,7 @@ from math import sqrt
 
 def your_code(x, y, clicks):
 	#and write your code here, and if you need more options you can edit the line 53
-	print("oh, you made the click number ", clicks, "at x:", x, "y: ", y, '. noice', u'\U0001F44C')
+	print("oh, you made the click number ", clicks, "at x:", x, ", y: ", y, '. noice', u'\U0001F44C')
 
 
 mp_drawing = mp.solutions.drawing_utils
